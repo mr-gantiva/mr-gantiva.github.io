@@ -7,6 +7,7 @@ Este es mi portafolio personal como Desarrollador Frontend, donde presento mi ex
 - [Portafolio de Desarrollador Frontend](#portafolio-de-desarrollador-frontend)
   - [Contenido](#contenido)
   - [Demo](#demo)
+  - [Proyectos forkeados](#proyectos-forkeados)
   - [Capturas de Pantalla](#capturas-de-pantalla)
   - [Características](#características)
   - [Instalación](#instalación)
@@ -18,7 +19,20 @@ Este es mi portafolio personal como Desarrollador Frontend, donde presento mi ex
 
 ## Demo
 
-[Enlace a la demo del portafolio](https://mr-gantiva.github.io/)
+[Enlace al portafolio](https://mr-gantiva.github.io/)
+
+## Proyectos forkeados
+[Enlace al proyecto forkeado: Katherine_Stehberg_2_0](https://github.com/mr-gantiva/Katherine_Stehberg_2_0/commit/efabd994dc1e512702a269aa9973e39c36b27b1d)
+
+[Enlace al pull request: Katherine_Stehberg_2_0](https://github.com/mr-gantiva/Katherine_Stehberg_2_0/commit/f764d8a0a8a762d71fecc434c9d8d1dd82abe1f4)
+
+
+
+
+[Enlace al proyecto forkeado: fcolabbe.github.io](https://github.com/mr-gantiva/fcolabbe.github.io/commit/76af83401a8cdea1851be32962833d602237a44f)
+
+[Enlace al pull request: fcolabbe.github.io](https://github.com/mr-gantiva/fcolabbe.github.io/commit/2bfcb77fffaa1120781fb267112d28c592dc8233)
+
 
 ## Capturas de Pantalla
 
